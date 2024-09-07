@@ -1,0 +1,99 @@
+2024-09-07 00:46:29 DEBUG TestNG:82 - suiteXmlPath: "/Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml"
+2024-09-07 00:46:29 INFO  Utils:112 - [TestNG] Running:
+  /Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml
+
+2024-09-07 00:47:22 DEBUG TestNG:82 - suiteXmlPath: "/Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml"
+2024-09-07 00:47:22 INFO  Utils:112 - [TestNG] Running:
+  /Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml
+
+2024-09-07 01:17:43 DEBUG TestNG:82 - suiteXmlPath: "/Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml"
+2024-09-07 01:17:43 INFO  Utils:112 - [TestNG] Running:
+  /Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml
+
+2024-09-07 01:17:55 INFO  TC002_LoginTest:16 - ***** Starting C002_LoginTest ****
+2024-09-07 01:18:04 INFO  TC002_LoginTest:42 -  ******* Finished TC002_LoginTest *******
+2024-09-07 01:19:53 DEBUG TestNG:82 - suiteXmlPath: "/Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml"
+2024-09-07 01:19:53 INFO  Utils:112 - [TestNG] Running:
+  /Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml
+
+2024-09-07 01:20:05 INFO  TC001_AccountRegistrationTest:37 - ***** Starting TC001_accountRegistrationTest *****
+2024-09-07 01:20:06 INFO  TC001_AccountRegistrationTest:42 - ****** Clicked on MyAccountLink *****
+2024-09-07 01:20:08 INFO  TC001_AccountRegistrationTest:44 - ****** Clicked on  Register Link *****
+2024-09-07 01:20:08 INFO  TC001_AccountRegistrationTest:47 -  Providing Customer Details ....
+2024-09-07 01:20:11 INFO  TC001_AccountRegistrationTest:58 - Validating Expected Message ...
+2024-09-07 01:20:11 INFO  TC001_AccountRegistrationTest:79 - **** Finished TC001_accountRegistrationTest *****
+2024-09-07 01:35:28 DEBUG TestNG:82 - suiteXmlPath: "/Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml"
+2024-09-07 01:35:28 INFO  Utils:112 - [TestNG] Running:
+  /Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml
+
+2024-09-07 01:35:40 INFO  TC001_AccountRegistrationTest:37 - ***** Starting TC001_accountRegistrationTest *****
+2024-09-07 01:35:41 INFO  TC001_AccountRegistrationTest:42 - ****** Clicked on MyAccountLink *****
+2024-09-07 01:35:43 INFO  TC001_AccountRegistrationTest:44 - ****** Clicked on  Register Link *****
+2024-09-07 01:35:43 INFO  TC001_AccountRegistrationTest:47 -  Providing Customer Details ....
+2024-09-07 01:35:46 INFO  TC001_AccountRegistrationTest:58 - Validating Expected Message ...
+2024-09-07 01:35:47 INFO  TC001_AccountRegistrationTest:79 - **** Finished TC001_accountRegistrationTest *****
+2024-09-07 01:37:19 DEBUG TestNG:82 - suiteXmlPath: "/Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml"
+2024-09-07 01:37:19 INFO  Utils:112 - [TestNG] Running:
+  /Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml
+
+2024-09-07 01:37:31 INFO  TC001_AccountRegistrationTest:37 - ***** Starting TC001_accountRegistrationTest *****
+2024-09-07 01:37:32 INFO  TC001_AccountRegistrationTest:42 - ****** Clicked on MyAccountLink *****
+2024-09-07 01:37:34 INFO  TC001_AccountRegistrationTest:44 - ****** Clicked on  Register Link *****
+2024-09-07 01:37:34 INFO  TC001_AccountRegistrationTest:47 -  Providing Customer Details ....
+2024-09-07 01:37:37 INFO  TC001_AccountRegistrationTest:58 - Validating Expected Message ...
+2024-09-07 01:37:37 INFO  TC001_AccountRegistrationTest:79 - **** Finished TC001_accountRegistrationTest *****
+2024-09-07 01:37:45 INFO  TC002_LoginTest:16 - ***** Starting C002_LoginTest ****
+2024-09-07 01:37:54 INFO  TC002_LoginTest:42 -  ******* Finished TC002_LoginTest *******
+2024-09-07 01:39:30 DEBUG TestNG:82 - suiteXmlPath: "/Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml"
+2024-09-07 01:39:30 INFO  Utils:112 - [TestNG] Running:
+  /Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml
+
+2024-09-07 01:39:41 INFO  TC001_AccountRegistrationTest:37 - ***** Starting TC001_accountRegistrationTest *****
+2024-09-07 01:39:42 INFO  TC001_AccountRegistrationTest:42 - ****** Clicked on MyAccountLink *****
+2024-09-07 01:39:44 INFO  TC001_AccountRegistrationTest:44 - ****** Clicked on  Register Link *****
+2024-09-07 01:39:44 INFO  TC001_AccountRegistrationTest:47 -  Providing Customer Details ....
+2024-09-07 01:39:48 INFO  TC001_AccountRegistrationTest:58 - Validating Expected Message ...
+2024-09-07 01:39:48 INFO  TC001_AccountRegistrationTest:79 - **** Finished TC001_accountRegistrationTest *****
+2024-09-07 01:39:56 INFO  TC002_LoginTest:16 - ***** Starting C002_LoginTest ****
+2024-09-07 01:40:05 INFO  TC002_LoginTest:42 -  ******* Finished TC002_LoginTest *******
+2024-09-07 01:42:32 DEBUG TestNG:82 - suiteXmlPath: "/Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml"
+2024-09-07 01:42:32 INFO  Utils:112 - [TestNG] Running:
+  /Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml
+
+2024-09-07 01:42:43 INFO  TC001_AccountRegistrationTest:37 - ***** Starting TC001_accountRegistrationTest *****
+2024-09-07 01:42:44 INFO  TC001_AccountRegistrationTest:42 - ****** Clicked on MyAccountLink *****
+2024-09-07 01:42:46 INFO  TC001_AccountRegistrationTest:44 - ****** Clicked on  Register Link *****
+2024-09-07 01:42:46 INFO  TC001_AccountRegistrationTest:47 -  Providing Customer Details ....
+2024-09-07 01:42:49 INFO  TC001_AccountRegistrationTest:58 - Validating Expected Message ...
+2024-09-07 01:42:49 INFO  TC001_AccountRegistrationTest:79 - **** Finished TC001_accountRegistrationTest *****
+2024-09-07 01:42:58 INFO  TC002_LoginTest:16 - ***** Starting C002_LoginTest ****
+2024-09-07 01:43:07 INFO  TC002_LoginTest:42 -  ******* Finished TC002_LoginTest *******
+2024-09-07 01:48:36 DEBUG TestNG:82 - suiteXmlPath: "/Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml"
+2024-09-07 01:48:36 INFO  Utils:112 - [TestNG] Running:
+  /Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml
+
+2024-09-07 01:48:48 INFO  TC001_AccountRegistrationTest:37 - ***** Starting TC001_accountRegistrationTest *****
+2024-09-07 01:48:49 INFO  TC001_AccountRegistrationTest:42 - ****** Clicked on MyAccountLink *****
+2024-09-07 01:48:51 INFO  TC001_AccountRegistrationTest:44 - ****** Clicked on  Register Link *****
+2024-09-07 01:48:51 INFO  TC001_AccountRegistrationTest:47 -  Providing Customer Details ....
+2024-09-07 01:48:54 INFO  TC001_AccountRegistrationTest:58 - Validating Expected Message ...
+2024-09-07 01:48:54 INFO  TC001_AccountRegistrationTest:79 - **** Finished TC001_accountRegistrationTest *****
+2024-09-07 01:49:03 INFO  TC002_LoginTest:16 - ***** Starting C002_LoginTest ****
+2024-09-07 01:49:22 INFO  TC002_LoginTest:42 -  ******* Finished TC002_LoginTest *******
+2024-09-07 01:51:27 DEBUG TestNG:82 - suiteXmlPath: "/Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml"
+2024-09-07 01:51:28 INFO  Utils:112 - [TestNG] Running:
+  /Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/grouping.xml
+
+2024-09-07 01:51:40 INFO  TC001_AccountRegistrationTest:37 - ***** Starting TC001_accountRegistrationTest *****
+2024-09-07 01:51:40 INFO  TC001_AccountRegistrationTest:42 - ****** Clicked on MyAccountLink *****
+2024-09-07 01:51:42 INFO  TC001_AccountRegistrationTest:44 - ****** Clicked on  Register Link *****
+2024-09-07 01:51:42 INFO  TC001_AccountRegistrationTest:47 -  Providing Customer Details ....
+2024-09-07 01:51:46 INFO  TC001_AccountRegistrationTest:58 - Validating Expected Message ...
+2024-09-07 01:51:46 INFO  TC001_AccountRegistrationTest:79 - **** Finished TC001_accountRegistrationTest *****
+2024-09-07 01:51:54 INFO  TC002_LoginTest:16 - ***** Starting C002_LoginTest ****
+2024-09-07 11:17:40 DEBUG TestNG:82 - suiteXmlPath: "/Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/test-output/Grouping Suite/testng-failed.xml"
+2024-09-07 11:17:41 INFO  Utils:112 - [TestNG] Running:
+  /Users/shashankkumar/eclipse-workspace/SeleniumPractice/openCart/test-output/Grouping Suite/testng-failed.xml
+
+2024-09-07 11:17:53 INFO  TC002_LoginTest:16 - ***** Starting C002_LoginTest ****
+2024-09-07 11:18:02 INFO  TC002_LoginTest:42 -  ******* Finished TC002_LoginTest *******
